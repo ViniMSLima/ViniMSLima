@@ -1,5 +1,5 @@
 
-> Hello World
+> print('Hello World')
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViniMSLima&theme=tokyonight-duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
