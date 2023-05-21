@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=donathanramalho&show_icons=true&count_private=true&hide_border=true&title_color=297BFF&icon_color=297BFF&text_color=c9d1d9&bg_color=0d1117" alt="Donathan Ramalho github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donathanramalho&layout=compact&hide_border=true&title_color=297BFF&text_color=297BFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinimslima&show_icons=true&count_private=true&hide_border=true&title_color=297BFF&icon_color=297BFF&text_color=c9d1d9&bg_color=0d1117" alt="Donathan Ramalho github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimslima&layout=compact&hide_border=true&title_color=297BFF&text_color=297BFF&bg_color=0d1117" />
 </div>
 
 
