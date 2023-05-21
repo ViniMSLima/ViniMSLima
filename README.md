@@ -19,7 +19,7 @@
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/donathan-ramalho-gon%C3%A7alves-89b06a181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinícius-lima-a56523196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   ![Snake animation](https://github.com/vinimslima/vinimslima/blob/output/github-contribution-grid-snake.svg)
   
 </div>
