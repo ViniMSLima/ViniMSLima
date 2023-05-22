@@ -3,10 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=297BFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Vinícius+Lima;I'm+18+Years+Old;I'm+From+SJP,+PR;I+Study+Computer+Engineering;Welcome!:%29)](https://git.io/typing-svg)
 
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinimslima&show_icons=true&count_private=true&hide_border=true&title_color=297BFF&icon_color=297BFF&text_color=c9d1d9&bg_color=0d1117" alt="Donathan Ramalho github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimslima&layout=compact&hide_border=true&title_color=297BFF&text_color=297BFF&bg_color=0d1117" />
-</div>
 
 
 <div align="center" style="display: inline_block"><br>
