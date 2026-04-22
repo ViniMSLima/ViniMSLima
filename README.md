@@ -3,7 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=297BFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Vinícius+Lima;I'm+from+2004;I'm+From+SJP,+PR;I+Study+Computer+Engineering;Welcome!:%29)](https://git.io/typing-svg)
 
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" height="30" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,py,js,html,css" alt="Minhas Linguagens" />
+</div>
+<br/>
 
 <div align="center">
   
