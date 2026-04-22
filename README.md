@@ -5,14 +5,13 @@
 
 
 
-<div align="center" style="display: inline_block"><br>
-  <img  alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img  alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img  alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<div align="center" style="display: block;">
+  <img alt="C#" height="30" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img alt="Python" height="30" width="40" style="margin: 0 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="JS" height="30" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="HTML" height="30" width="40" style="margin: 0 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="30" width="40" style="margin: 0 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
-
 ##
 
  
@@ -24,37 +23,5 @@
   
   <a href="https://www.linkedin.com/in/vinícius-lima-a56523196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-<!--
-### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{donathanramalho}/count.svg" /></p> 
-<br></div-->
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=297BFF&height=120&section=footer"/>
