@@ -1,8 +1,6 @@
 <img width=100% src="http://capsule-render.vercel.app/api?type=waving&color=297BFF&height=180&section=header&text=Vinícius%20Matheus%20Sary%20de%20Lima&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=297BFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Vinícius+Lima;I'm+21+Years+Old;I'm+From+SJP,+PR;I+Study+Computer+Engineering;Welcome!:%29)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=297BFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Vinícius+Lima;I'm+from+2004;I'm+From+SJP,+PR;I+Study+Computer+Engineering;Welcome!:%29)](https://git.io/typing-svg)
 
 
 <div align="center" style="display: block;">
@@ -12,9 +10,6 @@
   <img alt="HTML" height="30" width="40" style="margin: 0 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS" height="30" width="40" style="margin: 0 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
-##
-
- 
 
 
 <div align="center">
